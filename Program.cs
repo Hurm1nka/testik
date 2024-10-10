@@ -10,13 +10,15 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-            int a, b, resultAdd;
+            int a, b, resultAdd, resultSub;
             Console.WriteLine("vvedite pervoe 4islo");
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("vvedite vtoroe 4islo");
             b = Convert.ToInt32(Console.ReadLine());
             resultAdd = a + b;
             Console.WriteLine("symma =" + resultAdd);
+            resultSub = a - b;
+            Console.WriteLine("raznost` = " + resultSub);
             Console.ReadKey();
         }
     }

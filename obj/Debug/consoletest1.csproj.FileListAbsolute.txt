@@ -1,0 +1,7 @@
+C:\Users\Moloko\Desktop\мдк\consoletest1\bin\Debug\consoletest1.exe.config
+C:\Users\Moloko\Desktop\мдк\consoletest1\bin\Debug\consoletest1.exe
+C:\Users\Moloko\Desktop\мдк\consoletest1\bin\Debug\consoletest1.pdb
+C:\Users\Moloko\Desktop\мдк\consoletest1\obj\Debug\consoletest1.csproj.AssemblyReference.cache
+C:\Users\Moloko\Desktop\мдк\consoletest1\obj\Debug\consoletest1.csproj.CoreCompileInputs.cache
+C:\Users\Moloko\Desktop\мдк\consoletest1\obj\Debug\consoletest1.exe
+C:\Users\Moloko\Desktop\мдк\consoletest1\obj\Debug\consoletest1.pdb
