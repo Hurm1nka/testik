@@ -11,7 +11,7 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             int a, b, resultAdd, resultSub,resultMul;
-            double sin;
+            double sin,cos;
             Console.WriteLine("vvedite pervoe 4islo");
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("vvedite vtoroe 4islo");
@@ -24,6 +24,8 @@ namespace ConsoleTest
             Console.WriteLine("ymnozhenie =" + resultMul);
             sin = Math.Sin(a);
             Console.WriteLine($"sin(a) = { sin}");
+            cos = Math.Cos(a);
+            Console.WriteLine($"cos(a) + {cos}");
             Console.ReadKey();
         }
     }
